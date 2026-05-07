@@ -1,10 +1,5 @@
 # Привет, я Артем! 👋
 
-<p align="left">
-  <img src="https://shields.io" alt="Fullstack Developer">
-  <img src="https://shields.io" alt="Age 18">
-</p>
-
 ### 🧑‍💻 Обо мне
 
 Мне 18 лет, и я горю созданием качественных веб-продуктов. Мой фокус — **React/TypeScript экосистема** и **fullstack-разработка (Next.js + NestJS)**.
@@ -67,13 +62,5 @@
 
 ---
 
-### 📈 Статистика GitHub
-<p align="left">
-  <img align="left" src="https://vercel.app" width="48%" alt="GitHub Stats" />
-  <img align="left" src="https://vercel.app" width="48%" alt="Top Languages" />
-</p>
-
-<br clear="both"/>
-
 ### 📫 Связь со мной
-[Telegram](https://t.me) | [LinkedIn](https://linkedin.com) | [Email](mailto:ТВОЙ_EMAIL)
+[Telegram](https://t.me/@rtemimarhol)  [Email](mailto:lovdaartem96@gmail.com)
