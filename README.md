@@ -13,7 +13,7 @@
 
 ## 💼 Experience
 
-### Freelance Frontend / Fullstack Developer
+### Fullstack Developer
 
 Работал над проектами разного уровня — от лендингов до полноценных веб-приложений.
 
