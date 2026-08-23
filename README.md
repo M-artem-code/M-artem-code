@@ -8,7 +8,7 @@ Focus: **React/TypeScript ecosystem** and **fullstack development (Next.js + Nes
 ### Languages, Frameworks, Platforms, and Libraries 🖥
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nest,postgres,mongodb,docker,py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,nest,postgres,mongodb,docker&theme=dark" />
 </p>
 
 ## 💼 Experience
